@@ -1,0 +1,12 @@
+log 12
+log 11
+log 10
+log 9
+log 8
+log 7
+log 6
+log 5
+log 4
+log 3
+log 2
+log 1
